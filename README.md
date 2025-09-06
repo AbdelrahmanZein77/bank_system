@@ -33,23 +33,23 @@ Run the program:
 bash
 Copy code
 ./bank_system
-📌 Example Usage
+## 📌 Example Usage
 Enter username and create a 4-digit password.
 
 Deposit or withdraw money with password verification.
 
 Check remaining balance after each operation.
 
-🎯 Purpose of the Project
+## 🎯 Purpose of the Project
 Although my main specialization is in Python & Django, I built this project in C to strengthen my problem-solving skills, learn low-level programming concepts, and demonstrate flexibility in different programming languages.
 
-📂 Repository Structure
+## 📂 Repository Structure
 perl
 Copy code
 bank-system-c/
 │-- bank_system.c     # Main source code
 │-- README.md         # Project documentation
-📬 Contact
+## 📬 Contact
 If you’d like to connect, feel free to reach out on
 LinkedIn [http://www.linkedin.com/in/abdelrahman-zein-35288b344] or check out more of my projects on
 GitHub [https://github.com/AbdelrahmanZein77]
